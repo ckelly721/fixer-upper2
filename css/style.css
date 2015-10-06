@@ -14,10 +14,12 @@ body {
 
 .mets {
     background: orange;
+    color:#00118e;
 }
 
 .dodgers {
     background: blue;
+    color:#f9fae7;
 }
 
 .cubs {
@@ -26,12 +28,15 @@ body {
 
 .pittsburgh {
     background: yellow;
+    color:#9f0035;
 }
 
 .cardinals {
-    background: red;
+    background: #830000;
+    color:#efedee;
 }
 
 .table-container {
     background: black;
+    color:#b1d4ef;
 }
